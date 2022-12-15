@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z-Ash-z
-- 👀 I’m interested in Machine learning and computer vision
-- 🌱 I’m currently learning the in's and out's of machine learning
+- 👀 I’m interested in Motion planning, Machine learning and computer vision
+- 🌱 I’m currently learning the nitty gittys of robotics
 - 💞️ I’m looking to collaborate on anything that's interesting
 - 📫 How to reach me ch.aneesh1996@gmail.com
 
